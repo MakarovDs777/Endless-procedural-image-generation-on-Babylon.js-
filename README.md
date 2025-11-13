@@ -4,6 +4,8 @@
 
 [The hell of images | Babylon.js Playground](https://playground.babylonjs.com/#797JF5#0)
 
+Бесконечно-процедурно генерируемых цветных RGB всевозможных картинок подиум в право, и влево по оси X при движение камеры генерируются.
+
 [The endless art gallery of the Backrooms (Makarov’s version 1 - A podium of various color images) | Babylon.js Playground](https://playground.babylonjs.com/#41F97U)
 
 
