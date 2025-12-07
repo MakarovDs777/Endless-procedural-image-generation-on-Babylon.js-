@@ -2,7 +2,9 @@
 
 За основу взято -> https://playground.babylonjs.com/#HWG227#5
 
-[The hell of images | Babylon.js Playground](https://playground.babylonjs.com/#797JF5#0)
+В первой версии я сделал гладкую версию создания всевозможных изображений без повторов всеми возможными способами.
+
+[Endless colored mountain! | Babylon.js Playground](https://playground.babylonjs.com/#QZI176)
 
 Бесконечно-процедурно генерируемых цветных RGB всевозможных картинок подиум вправо, и влево по оси X при движение камеры генерируются.
 
