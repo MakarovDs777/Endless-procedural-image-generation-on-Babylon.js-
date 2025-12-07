@@ -8,7 +8,7 @@
 
 Бесконечно-процедурно генерируемых цветных RGB всевозможных картинок подиум вправо, и влево по оси X при движение камеры генерируются.
 
-[The endless art gallery of the Backrooms (Makarov’s version 1 - A podium of various color images) | Babylon.js Playground](https://playground.babylonjs.com/#41F97U)
+[The endless art gallery of the Backrooms (Makarov’s version 1 - A podium of various color images) | Babylon.js Playground](https://playground.babylonjs.com/#41F97U#1)
 
 Теперь нужно добавить GUI для того что-бы создать локальную версию цветного шума для переключение по полю вводу картинки на плсокости.
 
