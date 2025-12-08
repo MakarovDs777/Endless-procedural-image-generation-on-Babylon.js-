@@ -37,3 +37,5 @@
 Всевозможные варианты всевозможных рисунков всевозможных красок но рисование с помощью кисти! 
 
 [The endless art gallery (Makarov’s version 7 - All possible options for drawing all kinds of pictures with a brush) | Babylon.js Playground](https://playground.babylonjs.com/#LFPQMH)
+
+Может у кого-то есть какие-то ещё идеи пишите в дискусии...
