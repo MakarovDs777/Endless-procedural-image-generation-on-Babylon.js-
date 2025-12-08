@@ -33,3 +33,7 @@
 Бесконечная библиотека картинок где полки это количество пикселей в высоту, а стеллаж это количество пикселей в ширину.
 
 [The endless art gallery (Makarov’s version 6 - Endless procedural image generation) | Babylon.js Playground](https://playground.babylonjs.com/#3E3EDL)
+
+Всевозможные варианты всевозможных рисунков всевозможных красок но рисование с помощью кисти! 
+
+[The endless art gallery (Makarov’s version 7 - All possible options for drawing all kinds of pictures with a brush) | Babylon.js Playground](https://playground.babylonjs.com/#LFPQMH)
