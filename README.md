@@ -28,7 +28,7 @@
 
 По пиксельно заменить последоватльно все пиксели выбранной картинки на всевозможные случайные пиксели всевозможных цветов всеми всевозможными способами без повторов.
 
-[The endless art gallery (Makarov’s version 5 - When uploading an image, there is a step-by-step pixel replacement in it) | Babylon.js Playground](https://playground.babylonjs.com/#02RSGB#1)
+[The endless art gallery (Makarov’s version 5 - When uploading an image, there is a step-by-step pixel replacement in it) | Babylon.js Playground](https://playground.babylonjs.com/#02RSGB#2)
 
 Бесконечная библиотека картинок где полки это количество пикселей в высоту, а стеллаж это количество пикселей в ширину.
 
