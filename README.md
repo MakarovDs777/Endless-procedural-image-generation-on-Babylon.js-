@@ -38,7 +38,7 @@
 
 [The endless art gallery (Makarov’s version 7 - All possible options for drawing all kinds of pictures with a brush) | Babylon.js Playground](https://playground.babylonjs.com/#LFPQMH)
 
-Короче давайте просто возьмём, и сделаем бесконечную процедурно генерируемую цветную плоскость, и добавим табло координат. 
+Короче давайте просто возьмём, и сделаем бесконечную случайно процедурно генерируемую цветную плоскость, и добавим табло координат. 
 
 [The endless art gallery (Makarov’s version 8 - Endless color random picture) | Babylon.js Playground](https://playground.babylonjs.com/#FT6RX3)
 
